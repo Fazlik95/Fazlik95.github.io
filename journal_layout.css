@@ -1,0 +1,50 @@
+body 
+{
+	margin-left: 10%;
+	margin-right: 10%; 	
+	background-image: url("back.jpg"); 
+}
+#container
+{
+	border: 10px white solid;
+	background-color: white;
+}
+#top 
+{
+	text-align:  right;
+	background-color: #A8F0F0;
+}
+.red
+{
+	font-size: 14pt;
+}
+.purple
+{
+	border-bottom-style:dashed;
+	border-bottom-width:2px;
+}
+#medium
+{
+	border: 4px #C2E9E9 solid;
+    padding: 5px;
+    background-color: #E8FBFB;
+	margin-top: 10px;
+	overflow: hidden;
+}
+#bottom
+{
+	border: 4px #C2E9E9 solid;	
+	background-color: #E8FBFB; 
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+ }
+img
+{
+	float:right;
+	clear: right;
+}
+.icon
+{
+	float: left;
+}
